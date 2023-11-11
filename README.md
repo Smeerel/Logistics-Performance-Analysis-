@@ -44,6 +44,7 @@ The results of the analysis will include:
 
  # Power BI Dashboards:
  ![image](https://github.com/Smeerel/Logistics-Performance-Analysis-/assets/143562418/30118faf-57e7-4c2d-93c2-d9be8e08318a)
+ 
 
 ![image](https://github.com/Smeerel/Logistics-Performance-Analysis-/assets/143562418/d96fac71-3303-4a48-93fc-6077b946cee0)
 
@@ -53,24 +54,24 @@ The results of the analysis will include:
 
 # Conclusion:
 
-# KPI’S 
+### KPI’S 
 - A high Fill Rate% of more than 99.5% shows efficiency in order processing
 - OTD Rate is found to be 78.5% which is very low and indicates only 78.5 % orders are delivered on time
 - On-Time In-Full (OTIF) rate is 78.1%, it means that approximately 78% of orders are being delivered both on time and in full
 - Return rate seem to be slightly high with On-Time deliveries  but 75% of orders have 0 returns or fewer
 
-# Delay Over Time 
+### Delay Over Time 
 - Delivery delays decreased from 22.32% in 2019 to 20.31% in 2020, which suggests a reduction in delay rates
 - The highest delivery delay rate occurs in the month of November at 31% followed by April at 27%
 
-# Performance Analysis
+### Performance Analysis
 - Team North has Maximum delay in delivery
 - All team excluding Team Ferrero has done diligent efforts to reduce delivery delays in 2020
 - Among Service channels, Grocery Store exhibits the highest incidence of delivery delays
 - Most of the service channels have shown improvement over the year 2020
 - Salesperson 3818 has a high rate of delayed deliveries
 
-# Most Affected
+### Most Affected
 - Oklahoma City stands out as the city with the most pronounced delivery delays
 - Customer identified by the ID number 52331 has encountered the highest number of delivery delays.
 
